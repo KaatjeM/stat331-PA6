@@ -1,7 +1,9 @@
 ---
 title: "Practice Activity 6"
 format: html
+author: "Jena, Alie, Alex, Kaatje"
 editor: visual
+embed-resources: true
 self-contained: true
 ---
 
